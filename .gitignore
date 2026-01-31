@@ -25,3 +25,6 @@ Thumbs.db
 
 # User uploaded files
 backend/upload/images/
+
+# Zip files
+*.zip
