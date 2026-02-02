@@ -26,6 +26,7 @@ Thumbs.db
 
 # User uploaded files
 backend/upload/images/
+frontend/src/Components/Assets
 
 # Zip files
 *.zip
