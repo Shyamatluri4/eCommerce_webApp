@@ -146,14 +146,18 @@ The admin dashboard will run on `http://localhost:5173` (default Vite port)
 
 ## 📸 Screenshots
 
+
 ### Homepage
 ![Homepage](https://github.com/user-attachments/assets/01bc042e-b5aa-48f7-9b76-e2178e838852)
+
 
 ### Footer
 ![Footer](https://github.com/user-attachments/assets/b6fc3124-74fd-4a16-a4aa-e59a9aad74e4)
 
+
 ### Loginpage
 ![Loginpage](https://github.com/user-attachments/assets/733a5690-a026-47fb-931e-a90b4b222730)
+
 
 ### ShoppingCart
 ![ShoppingCart](https://github.com/user-attachments/assets/4142fc66-9101-43da-8127-2af2123cedc8)
